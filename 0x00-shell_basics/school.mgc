@@ -1,2 +1,2 @@
 #!/bin/bash
-magic_file(SCHOOL,const char *School)
+magic_open(SCHOOL,const char *School)
