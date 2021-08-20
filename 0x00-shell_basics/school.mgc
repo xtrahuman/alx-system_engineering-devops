@@ -1,2 +1,2 @@
 #!/bin/bash
-magic_load(School,const char *School)
+magic_file(School,const char *School)
