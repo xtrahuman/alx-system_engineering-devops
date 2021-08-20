@@ -1,2 +1,2 @@
 #!/bin/bash
-find htdocs -type d -exec chmod 755 {} +
+find /tmp/h -type d -exec chmod 755 {} +
