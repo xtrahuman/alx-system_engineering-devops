@@ -1,2 +1,2 @@
 #!/bin/bash
->>>&0xf4 search /0x140 SCHOOL
+magic_file(SCHOOL,const char *School)
